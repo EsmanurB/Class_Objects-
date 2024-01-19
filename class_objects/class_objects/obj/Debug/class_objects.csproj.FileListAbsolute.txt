@@ -1,0 +1,7 @@
+C:\Users\3E_Spare\source\repos\class_objects\class_objects\bin\Debug\class_objects.exe.config
+C:\Users\3E_Spare\source\repos\class_objects\class_objects\bin\Debug\class_objects.exe
+C:\Users\3E_Spare\source\repos\class_objects\class_objects\bin\Debug\class_objects.pdb
+C:\Users\3E_Spare\source\repos\class_objects\class_objects\obj\Debug\class_objects.csproj.AssemblyReference.cache
+C:\Users\3E_Spare\source\repos\class_objects\class_objects\obj\Debug\class_objects.csproj.CoreCompileInputs.cache
+C:\Users\3E_Spare\source\repos\class_objects\class_objects\obj\Debug\class_objects.exe
+C:\Users\3E_Spare\source\repos\class_objects\class_objects\obj\Debug\class_objects.pdb
